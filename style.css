@@ -1,0 +1,26 @@
+h1 {
+	 color: white;
+background-color:purple;
+}
+
+body {
+     background-color: violet;
+	 background-image: url("https://ak2.picdn.net/shutterstock/videos/27454222/thumb/12.jpg");
+}
+
+body {
+	  border: 9px solid violet;
+}
+ 
+ 
+ h1 {
+    text-decoration: overline;
+}
+
+h1 {
+    text-decoration: line-through;
+}
+
+body {
+	font-size: 15px
+}
